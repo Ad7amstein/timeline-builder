@@ -40,16 +40,16 @@
 		},
 		{
 			"media": {
-				"url": "https://youtu.be/H7_sqdkaAfo",
-				"caption": "I'm Every Women as performed by Whitney Houston.",
-				"credit": "Arista Records"
+				"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AAMarkov.jpg/330px-AAMarkov.jpg",
+				"caption": "Russian mathematician Andrey Markov",
+				"credit": "<a href='https://en.wikipedia.org/wiki/Markov_chain'>wiki</a>"
 			},
 			"start_date": {
-				"year": "1978"
+				"year": "1913"
 			},
 			"text": {
-				"headline": "Early Album Credits",
-				"text": "As a teen Houston's credits include background vocals for Jermaine Jackson, Lou Rawls and the Neville Brothers. She also sang on Chaka Khan's, 'I'm Every Woman,' a song which she later remade for the <i>Bodyguard</i> soundtrack which is the biggest selling soundtrack of all time. It sold over 42 million copies worldwide."
+				"headline": "Markov Chains",
+				"text": "named after Russian mathematician Andrey Markov, is used to describe a sequence of possible events based on a previous state."
 			}
 		},
 		{
