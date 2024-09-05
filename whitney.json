@@ -26,30 +26,16 @@
 		},
 		{
 			"media": {
-				"url": "https://youtu.be/fSrO91XO1Ck",
-				"caption": "",
-				"credit": "<a href=\"http://unidiscmusic.com\">Unidisc Music</a>"
+				"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/X33-ellips-1.svg/330px-X33-ellips-1.svg.pngo",
+				"caption": "Conic fitting a set of points using least-squares approximation.",
+				"credit": "<a href='https://en.wikipedia.org/wiki/Least_squares'>wiki</a>"
 			},
 			"start_date": {
-				"year": "1978"
+				"year": "1805"
 			},
 			"text": {
-				"headline": "First Recording",
-				"text": "At the age of 15 Houston was featured on Michael Zager's song, Life's a Party."
-			}
-		},
-		{
-			"media": {
-				"url": "https://youtu.be/_gvJCCZzmro",
-				"caption": "A young poised Whitney Houston in an interview with EbonyJet.",
-				"credit": "EbonyJet"
-			},
-			"start_date": {
-				"year": "1978"
-			},
-			"text": {
-				"headline": "The Early Years",
-				"text": "As a teen Houston's credits include background vocals for Jermaine Jackson, Lou Rawls and the Neville Brothers. She also sang on Chaka Khan's, 'I'm Every Woman,' a song which she later remade for the <i>Bodyguard</i> soundtrack which is the biggest selling soundtrack of all time. It sold over 42 million copies worldwide."
+				"headline": "Least Square Theory",
+				"text": "by French mathematician Adrien-Marie Legendre. This theory, helps in data fitting."
 			}
 		},
 		{
