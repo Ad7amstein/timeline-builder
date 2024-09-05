@@ -1,30 +1,27 @@
 {
 	"title": {
 		"media": {
-			"url": "//www.flickr.com/photos/tm_10001/2310475988/",
-			"caption": "Whitney Houston performing on her My Love is Your Love Tour in Hamburg.",
-			"credit": "flickr/<a href='http://www.flickr.com/photos/tm_10001/'>tm_10001</a>"
+			"url": "https://b3381490.smushcdn.com/3381490/wp-content/uploads/2023/01/DALL%C2%B7E-2024-01-07-08.01.49-An-eye-catching-and-informative-lead-image-for-a-blog-about-artificial-intelligence-for-beginners.-The-image-should-visually-represent-the-concept-of-.png?lossy=2&strip=1&webp=1",
+			"credit": "<a href='https://b3381490.smushcdn.com/3381490/wp-content/uploads/2023/01/DALL%C2%B7E-2024-01-07-08.01.49-An-eye-catching-and-informative-lead-image-for-a-blog-about-artificial-intelligence-for-beginners.-The-image-should-visually-represent-the-concept-of-.png?lossy=2&strip=1&webp=1'>willbhurd</a>"
 		},
 		"text": {
-			"headline": "Whitney Houston<br/> 1963 - 2012",
-			"text": "<p>Houston's voice caught the imagination of the world propelling her to superstardom at an early age becoming one of the most awarded performers of our time. This is a look into the amazing heights she achieved and her personal struggles with substance abuse and a tumultuous marriage.</p>"
+			"headline": "Notable discoveries in ai<br/> 1763 - 2017",
+			"text": "<p>The history of artificial intelligence (AI) as a field is intertwined with the history of machine learning, as the algorithms and computational advances that underpin ML fed into the development of AI.</p>"
 		}
 	},
 	"events": [
 		{
 			"media": {
-				"url": "https://s.abcnews.com/images/Entertainment/whitney-cissy-dionne-gty-er-180711_hpEmbed_21x16_992.jpg",
-				"caption": "Houston's with her mother and Gospel singer, Cissy Houston and cousin Dionne Warwick.",
-				"credit": "Cissy Houston photo:<a href='http://www.flickr.com/photos/11447043@N00/418180903/'>Tom Marcello</a><br/><a href='http://commons.wikimedia.org/wiki/File%3ADionne_Warwick_television_special_1969.JPG'>Dionne Warwick: CBS Television via Wikimedia Commons</a>"
+				"url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Thomas_Bayes.gif",
+				"caption": "Thomas Bayes, Only known portrait that is possibly of Bayes from a 1936 book, but it is doubtful whether the portrait is actually of him.",
+				"credit": "<a href='https://en.wikipedia.org/wiki/Thomas_Bayes'>wiki</a>"
 			},
 			"start_date": {
-				"month": "8",
-				"day": "9",
-				"year": "1963"
+				"year": "1763"
 			},
 			"text": {
-				"headline": "A Musical Heritage",
-				"text": "<p>Born in New Jersey on August 9th, 1963, Houston grew up surrounded by the music business. Her mother is gospel singer Cissy Houston and her cousins are Dee Dee and Dionne Warwick.</p>"
+				"headline": "Bayes' theorem",
+				"text": "<p>and its predecessors. This theorem and its applications underlie inference, describing the probability of an event occurring based on prior knowledge.</p>"
 			}
 		},
 		{
