@@ -110,6 +110,76 @@
 				"headline": "Recurrent neural network",
 				"text": "Recurrent neural networks (RNNs) are a class of artificial neural networks for sequential data processing. Unlike feedforward neural networks, which process data in a single pass, RNNs process data across multiple time steps, making them well-adapted for modelling and processing text, speech, and time series."
 			}
+		},
+		{
+			"media": {
+				"url": "https://upload.wikimedia.org/wikipedia/commons/7/72/SVM_margin.png",
+				"caption": "Maximum-margin hyperplane and margins for an SVM trained with samples from two classes. Samples on the margin are called the support vectors.",
+				"credit": "By <a href='//commons.wikimedia.org/w/index.php?title=User:Larhmam&amp;action=edit&amp;redlink=1' class='new' title='User:Larhmam (page does not exist)'>Larhmam</a> - <span class='int-own-work' lang='en'>Own work</span>, <a href='https://creativecommons.org/licenses/by-sa/4.0' title='Creative Commons Attribution-Share Alike 4.0'>CC BY-SA 4.0</a>, <a href='https://commons.wikimedia.org/w/index.php?curid=73710028'>Link</a>"
+			},
+			"start_date": {
+				"year": "1995"
+			},
+			"text": {
+				"headline": "Support Vector Machines (SVM)",
+				"text": "Introduced by Vladimir Vapnik and colleagues, SVM is a supervised learning algorithm used for classification and regression tasks, particularly effective in high-dimensional spaces."
+			}
+		},
+		{
+			"media": {
+				"url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Deep_Learning.jpg",
+				"caption": "Representing images on multiple layers of abstraction in deep learning",
+				"credit": "By <a href='//commons.wikimedia.org/w/index.php?title=User:Sven_Behnke&amp;action=edit&amp;redlink=1' class='new' title='User:Sven Behnke (page does not exist)'>Sven Behnke</a> - <span class='int-own-work' lang='en'>Own work</span>, <a href='https://creativecommons.org/licenses/by-sa/4.0' title='Creative Commons Attribution-Share Alike 4.0'>CC BY-SA 4.0</a>, <a href='https://commons.wikimedia.org/w/index.php?curid=82466022'>Link</a>"
+			},
+			"start_date": {
+				"year": "2006"
+			},
+			"text": {
+				"headline": "Deep Learning",
+				"text": "Geoffrey Hinton popularized deep learning by showing that deep belief networks could be efficiently trained using unsupervised learning algorithms. This development led to breakthroughs in AI."
+			}
+		},
+		{
+			"media": {
+				"url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Typical_cnn.png",
+				"caption": "Typical CNN architecture",
+				"credit": "By <a href='//commons.wikimedia.org/w/index.php?title=User:Aphex34&amp;action=edit&amp;redlink=1' class='new' title='User:Aphex34 (page does not exist)'>Aphex34</a> - <span class='int-own-work' lang='en'>Own work</span>, <a href='https://creativecommons.org/licenses/by-sa/4.0' title='Creative Commons Attribution-Share Alike 4.0'>CC BY-SA 4.0</a>, <a href='https://commons.wikimedia.org/w/index.php?curid=45679374'>Link</a>"
+			},
+			"start_date": {
+				"year": "2012"
+			},
+			"text": {
+				"headline": "Convolutional Neural Networks (CNN)",
+				"text": "Though first introduced by Yann LeCun in the 1990s, CNNs gained widespread attention after AlexNet (Krizhevsky, Sutskever, Hinton) won the ImageNet challenge, sparking the deep learning revolution in computer vision."
+			}
+		},
+		{
+			"media": {
+				"url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Generative_adversarial_network.svg",
+				"caption": "An illustration of how a GAN works",
+				"credit": "By Zhang, Aston and Lipton, Zachary C. and Li, Mu and Smola, Alexander J. - <a rel='nofollow' class='external free' href='https://github.com/d2l-ai/d2l-en'>https://github.com/d2l-ai/d2l-en</a>, <a href='https://creativecommons.org/licenses/by-sa/4.0' title='Creative Commons Attribution-Share Alike 4.0'>CC BY-SA 4.0</a>, <a href='https://commons.wikimedia.org/w/index.php?curid=152265649'>Link</a>"
+			},
+			"start_date": {
+				"year": "2014"
+			},
+			"text": {
+				"headline": "Generative Adversarial Networks (GANs)",
+				"text": "Introduced by Ian Goodfellow and colleagues, GANs are a class of neural networks that learn to generate new data by pitting two networks, a generator and a discriminator, against each other."
+			}
+		},
+		{
+			"media": {
+				"url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Transformer%2C_full_architecture.png",
+				"caption": "A standard Transformer architecture, showing on the left an encoder, and on the right a decoder. Note: it uses the pre-LN convention, which is different from the post-LN convention used in the original 2017 Transformer.",
+				"credit": "By dvgodoy - <a rel='nofollow' class='external free' href='https://github.com/dvgodoy/dl-visuals/?tab=readme-ov-file'>https://github.com/dvgodoy/dl-visuals/?tab=readme-ov-file</a>, <a href='https://creativecommons.org/licenses/by/4.0' title='Creative Commons Attribution 4.0'>CC BY 4.0</a>, <a href='https://commons.wikimedia.org/w/index.php?curid=151216016'>Link</a>"
+			},
+			"start_date": {
+				"year": "2017"
+			},
+			"text": {
+				"headline": "Transformers",
+				"text": "Introduced by Vaswani et al., the transformer model revolutionized natural language processing by using attention mechanisms to process data in parallel, leading to breakthroughs in models like BERT and GPT."
+			}
 		}
 	]
 }
