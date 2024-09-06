@@ -43,9 +43,9 @@
 		},
 		{
 			"media": {
-				"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AAMarkov.jpg/330px-AAMarkov.jpg",
+				"url": "https://commons.wikimedia.org/wiki/File:AAMarkov.jpg#/media/File:AAMarkov.jpg",
 				"caption": "Russian mathematician Andrey Markov",
-				"credit": "<a href='https://en.wikipedia.org/wiki/Markov_chain'>wiki</a>"
+				"credit": "<p><a href='https://commons.wikimedia.org/wiki/File:AAMarkov.jpg#/media/File:AAMarkov.jpg'><img src='https://upload.wikimedia.org/wikipedia/commons/7/70/AAMarkov.jpg' alt='AAMarkov.jpg' height='1240' width='954'></a><br>By Unknown author - История Академии наук СССР. — М.−Л.: Наука, 1964. — Т. 2. — С. 475., Public Domain, <a href='https://commons.wikimedia.org/w/index.php?curid=1332494'>Link</a></p>"
 			},
 			"start_date": {
 				"year": "1913"
