@@ -43,9 +43,9 @@
 		},
 		{
 			"media": {
-				"url": "https://commons.wikimedia.org/wiki/File:AAMarkov.jpg#/media/File:AAMarkov.jpg",
+				"url": "https://upload.wikimedia.org/wikipedia/commons/7/70/AAMarkov.jpg",
 				"caption": "Russian mathematician Andrey Markov",
-				"credit": "<p><a href='https://commons.wikimedia.org/wiki/File:AAMarkov.jpg#/media/File:AAMarkov.jpg'><img src='https://upload.wikimedia.org/wikipedia/commons/7/70/AAMarkov.jpg' alt='AAMarkov.jpg' height='1240' width='954'></a><br>By Unknown author - История Академии наук СССР. — М.−Л.: Наука, 1964. — Т. 2. — С. 475., Public Domain, <a href='https://commons.wikimedia.org/w/index.php?curid=1332494'>Link</a></p>"
+				"credit": "By Unknown author - История Академии наук СССР. — М.−Л.: Наука, 1964. — Т. 2. — С. 475., Public Domain, <a href='https://commons.wikimedia.org/w/index.php?curid=1332494'>Link</a>"
 			},
 			"start_date": {
 				"year": "1913"
@@ -53,6 +53,76 @@
 			"text": {
 				"headline": "Markov Chains",
 				"text": "named after Russian mathematician Andrey Markov, is used to describe a sequence of possible events based on a previous state."
+			}
+		},
+		{
+			"media": {
+				"url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Perceptron.svg",
+				"caption": "The appropriate weights are applied to the inputs, and the resulting weighted sum passed to a function that produces the output o.",
+				"credit": "By <a href='https://en.wikipedia.org/wiki/User:Mat_the_w' class='extiw' title='wikipedia:User:Mat the w'>Mat the w</a> at <a href='https://en.wikipedia.org/wiki/' class='extiw' title='wikipedia:'>English Wikipedia</a>, <a href='https://creativecommons.org/licenses/by-sa/3.0' title='Creative Commons Attribution-Share Alike 3.0'>CC BY-SA 3.0</a>, <a href='https://commons.wikimedia.org/w/index.php?curid=23766733'>Link</a>"
+			},
+			"start_date": {
+				"year": "1957"
+			},
+			"text": {
+				"headline": "Perceptron",
+				"text": "is a type of linear classifier invented by American psychologist Frank Rosenblatt that underlies advances in deep learning."
+			}
+		},
+		{
+			"media": {
+				"url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Perceptron.svg",
+				"caption": "Example of k-NN classification. The test sample (green dot) should be classified either to blue squares or to red triangles. If k = 3 (solid line circle) it is assigned to the red triangles because there are 2 triangles and only 1 square inside the inner circle. If k = 5 (dashed line circle) it is assigned to the blue squares (3 squares vs. 2 triangles inside the outer circle).",
+				"credit": "By Antti Ajanki <a href='//commons.wikimedia.org/w/index.php?title=User:AnAj&amp;action=edit&amp;redlink=1' class='new' title='User:AnAj (page does not exist)'>AnAj</a> - <span class='int-own-work' lang='en'>Own work</span>, <a href='http://creativecommons.org/licenses/by-sa/3.0/' title='Creative Commons Attribution-Share Alike 3.0'>CC BY-SA 3.0</a>, <a href='https://commons.wikimedia.org/w/index.php?curid=2170282'>Link</a>"
+			},
+			"start_date": {
+				"year": "1967"
+			},
+			"text": {
+				"headline": "Nearest Neighbor",
+				"text": "Nearest Neighbor is an algorithm originally designed to map routes. In an ML context it is used to detect patterns."
+			}
+		},
+		{
+			"media": {
+				"url": "https://upload.wikimedia.org/wikipedia/commons/6/60/ArtificialNeuronModel_english.png",
+				"caption": "Diagram of an artificial neural network.",
+				"credit": "By <a href='//commons.wikimedia.org/wiki/User:Chrislb' title='User:Chrislb'>Chrislb</a> - created by <a href='//commons.wikimedia.org/wiki/User:Chrislb' title='User:Chrislb'>Chrislb</a>, <a href='http://creativecommons.org/licenses/by-sa/3.0/' title='Creative Commons Attribution-Share Alike 3.0'>CC BY-SA 3.0</a>, <a href='https://commons.wikimedia.org/w/index.php?curid=224555'>Link</a>"
+			},
+			"start_date": {
+				"year": "1970"
+			},
+			"text": {
+				"headline": "Backpropagation",
+				"text": "In machine learning, backpropagation is a gradient estimation method commonly used for training neural networks to compute the network parameter updates."
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"start_date": {
+				"year": ""
+			},
+			"text": {
+				"headline": "",
+				"text": ""
+			}
+		},
+		{
+			"media": {
+				"url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Recurrent_neural_network_unfold.svg",
+				"caption": "Compressed (left) and unfolded (right) basic recurrent neural network.",
+				"credit": "By <a href='//commons.wikimedia.org/wiki/User:Ixnay' title='User:Ixnay'>fdeloche</a> - <span class='int-own-work' lang='en'>Own work</span>, <a href='https://creativecommons.org/licenses/by-sa/4.0' title='Creative Commons Attribution-Share Alike 4.0'>CC BY-SA 4.0</a>, <a href='https://commons.wikimedia.org/w/index.php?curid=60109157'>Link</a>"
+			},
+			"start_date": {
+				"year": "1982"
+			},
+			"text": {
+				"headline": "Recurrent neural network",
+				"text": "Recurrent neural networks (RNNs) are a class of artificial neural networks for sequential data processing. Unlike feedforward neural networks, which process data in a single pass, RNNs process data across multiple time steps, making them well-adapted for modelling and processing text, speech, and time series."
 			}
 		}
 	]
